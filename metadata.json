@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow - Smart English Reader",
+  "description": "A comprehensive English learning platform featuring intelligent reading modes, AI-powered word lookups, and spaced-repetition vocabulary management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
